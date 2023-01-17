@@ -1,2 +1,4 @@
+github.com/KitsuneKodes/Renderer v0.0.0-20230117225335-898db3ad19d0 h1:UnQUxWVMiod9fuRjVJNKyzPTp/7toNtt0tVkLfiLzBg=
+github.com/KitsuneKodes/Renderer v0.0.0-20230117225335-898db3ad19d0/go.mod h1:SkZQlpd1DIOX1+tdk0wtqfblZK2/b/Bsr/DGaLP51wo=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b h1:GgabKamyOYguHqHjSkDACcgoPIz3w0Dis/zJ1wyHHHU=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=

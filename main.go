@@ -25,7 +25,7 @@ func main() {
 	}
 
 	window.MakeContextCurrent()
-    
+    imgui.CreateContext()
 
 	for !window.ShouldClose() {
 		// Do OpenGL stuff.
